@@ -1,0 +1,12 @@
+.header{
+    background-image: url('https://www.bbva.com/wp-content/uploads/2018/06/fintech-tecnologia-innovacion-digital-blockchain-bbva_opt-1024x431.jpg');
+    height: 100px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
+#tag-cloud {
+  display: inline;
+}
+
+#tag-cloud2 {
+  float: left;
+}
